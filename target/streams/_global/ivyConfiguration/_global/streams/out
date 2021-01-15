@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://repository.cloudera.com/artifactory/cloudera-repos/'; switch to HTTPS or opt-in as ("Cloudera" at "http://repository.cloudera.com/artifactory/cloudera-repos/").withAllowInsecureProtocol(true)
